@@ -2,12 +2,12 @@
 
 **`Analista de Dados & Business Intelligence`**
 
-Me chamo Amanda Petersen, sou de Curitiba-PR e atuo focada em transformar complexidade em eficiência por meio de automação, engenharia analítica e inteligência artificial. Sou especialista na integração de bancos de dados, construção de pipelines e desenvolvimento de dashboards escaláveis que sustentam decisões estratégicas de negócio[cite: 1]. 
+Me chamo Amanda Petersen, sou de Curitiba-PR e atuo focada em transformar complexidade em eficiência por meio de automação, engenharia analítica e inteligência artificial. Sou especialista na integração de bancos de dados, construção de pipelines e desenvolvimento de dashboards escaláveis que sustentam decisões estratégicas de negócio.
 
-Atualmente atuo como Analista de Dados Pleno na Papapá, liderando projetos de robotização, automação de processos e desenvolvimento de soluções analíticas[cite: 2].
+Possuo experiência na condução de projetos de robotização, automação de processos de Trade Marketing e desenvolvimento de soluções analíticas end-to-end.
 
 <p align="left">
-    <a href="https://linkedin.com/in/seu-usuario">
+    <a href="https://linkedin.com/in/seu-usuario" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
@@ -21,18 +21,11 @@ Atualmente atuo como Analista de Dados Pleno na Papapá, liderando projetos de r
             src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="https://github.com/AmandaPetersen?tab=repositories&sort=stargazers">
+    <a href="https://www.instagram.com/aamandapettersen?obrf=dWIzcTl6cmpvbnVu&utm_source=qr" target="_blank">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/AmandaPetersen?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/AmandaPetersen?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/AmandaPetersen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Instagram" 
+            title="Siga-me no Instagram" 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
 </p>
@@ -41,38 +34,30 @@ Atualmente atuo como Analista de Dados Pleno na Papapá, liderando projetos de r
 
 ### 🤖 Dados, BI & Tecnologias
 
-<img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg"/>
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" title="Spring" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
-<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AmandaPetersen&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaPetersen&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="left">
+  <img alt="Power BI" title="Power BI" width="36px" style="padding-right: 8px;" src="https://raw.githubusercontent.com/microsoft/powerbi-docs/main/code-samples/shared/power-bi-icon.svg"/>
+  <img alt="Python" title="Python" width="36px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img alt="PostgreSQL" title="PostgreSQL" width="36px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+  <img alt="Git" title="Git" width="36px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img alt="GitHub" title="GitHub" width="36px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" width="36px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="Node.js" title="Node.js" width="36px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+  <img alt="HTML5" title="HTML5" width="36px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="CSS3" title="CSS3" width="36px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img alt="Java" title="Java" width="36px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img alt="Spring" title="Spring" width="36px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+  <img alt="Linux" title="Linux" width="36px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
 </p>
+
+---
+
+### ⚡ Competências & Foco de Atuação
+
+| Categoria | Tecnologias & Soluções |
+| :--- | :--- |
+| **📊 Business Intelligence & Analytics** | Power BI (DAX, Power Query), Modelagem Dimensional, Dashboards Executivos |
+| **🐍 Engenharia de Dados & ETL** | Python, SQL Avançado, PostgreSQL, Tratamento & Saneamento de Dados |
+| **🤖 Automação & Inteligência Artificial** | Robotização de Processos (RPA), Engenharia de Prompts (ChatGPT, Gemini, Claude) |
+| **💻 Desenvolvimento & Ferramentas** | Git/GitHub, HTML5, CSS3, JavaScript, Java, Spring Boot, Linux |
+
+> 🚀 *Foco contínuo em transformar dados brutos em inteligência acionável e alta eficiência operacional.*
