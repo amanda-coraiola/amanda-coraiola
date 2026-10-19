@@ -85,6 +85,33 @@ Possuo experiência na condução de projetos de robotização, automação de p
 
 ---
 
+<details>
+  <summary><b>🎨 Evoluição Visual e UX: Redesign do Painel de BI (Antes vs. Depois)</b></summary>
+
+  <br/>
+
+  > **O Impacto do Redesign:** Transição de uma tabela estática e monótona para um ecossistema analítico completo, com menus de navegação fluidos, *cards* automatizados com *insights* de negócio, matrizes de positivação e hierarquia visual executiva.
+
+  ### 🔴 O Cenário Anterior (O "Antes")
+  * Tabela estática sem KPIs executivos, filtros dispersos e alta dificuldade de leitura rápida.
+  
+  ![Antes](blob:https://gemini.google.com/a8ada984-f579-431c-87cf-6965097c6f51)
+
+  ---
+
+  ### 🟢 A Solução Desenvolvida (O "Depois")
+  * **Tela 1: Home Trade & Resumo Geral**
+  ![Depois Home](blob:https://gemini.google.com/e5bdf089-3543-4635-a490-234f77311cd1)
+
+  * **Tela 2: Performance com Insights Estratégicos & Oportunidades**
+  ![Depois Performance](blob:https://gemini.google.com/f66bffc7-fb24-45e4-92e7-0ccd859d3e0c)
+
+  * **Tela 3: Matriz de Positivação (Canal Alimentar)**
+  ![Depois Positivação](blob:https://gemini.google.com/4455d1aa-791c-4cf5-b72e-5a1e21d55e29)
+
+</details>
+---
+
 ### ⚡ Competências & Foco de Atuação
 
 | Categoria | Tecnologias & Soluções |
