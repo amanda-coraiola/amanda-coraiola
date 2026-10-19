@@ -95,19 +95,28 @@ Possuo experiência na condução de projetos de robotização, automação de p
   ### 🔴 O Cenário Anterior (O "Antes")
   * Tabela estática sem KPIs executivos, filtros dispersos e alta dificuldade de leitura rápida.
   
-  ![Antes](blob:https://gemini.google.com/a8ada984-f579-431c-87cf-6965097c6f51)
+  <p align="center">
+    <img src="COLIQUE_O_LINK_DO_GITHUB_DA_IMAGEM_ANTIGA_AQUI" alt="Antes" width="800px"/>
+  </p>
 
   ---
 
   ### 🟢 A Solução Desenvolvida (O "Depois")
-  * **Tela 1: Home Trade & Resumo Geral**
-  ![Depois Home](blob:https://gemini.google.com/e5bdf089-3543-4635-a490-234f77311cd1)
 
-  * **Tela 2: Performance com Insights Estratégicos & Oportunidades**
-  ![Depois Performance](blob:https://gemini.google.com/f66bffc7-fb24-45e4-92e7-0ccd859d3e0c)
+  **Tela 1: Home Trade & Resumo Geral**
+  <p align="center">
+    <img src="COLOQUE_O_LINK_DO_GITHUB_DA_FOTO_1_AQUI" alt="Depois Home" width="800px"/>
+  </p>
 
-  * **Tela 3: Matriz de Positivação (Canal Alimentar)**
-  ![Depois Positivação](blob:https://gemini.google.com/4455d1aa-791c-4cf5-b72e-5a1e21d55e29)
+  **Tela 2: Performance com Insights Estratégicos & Oportunidades**
+  <p align="center">
+    <img src="COLOQUE_O_LINK_DO_GITHUB_DA_FOTO_2_AQUI" alt="Depois Performance" width="800px"/>
+  </p>
+
+  **Tela 3: Matriz de Positivação (Canal Alimentar)**
+  <p align="center">
+    <img src="COLOQUE_O_LINK_DO_GITHUB_DA_FOTO_3_AQUI" alt="Depois Positivação" width="800px"/>
+  </p>
 
 </details>
 ---
