@@ -35,7 +35,7 @@ Possuo experiência na condução de projetos de robotização, automação de p
 ### 🤖 Dados, BI & Tecnologias
 
 <p align="left">
-  <img alt="Power BI" title="Power BI" width="36px" style="padding-right: 8px;" src="https://raw.githubusercontent.com/microsoft/powerbi-docs/main/code-samples/shared/power-bi-icon.svg"/>
+  <img alt="Power BI" title="Power BI" width="36px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg"/>
   <img alt="Python" title="Python" width="36px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img alt="PostgreSQL" title="PostgreSQL" width="36px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
   <img alt="Git" title="Git" width="36px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
