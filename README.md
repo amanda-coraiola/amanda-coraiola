@@ -51,6 +51,40 @@ Possuo experiência na condução de projetos de robotização, automação de p
 
 ---
 
+### 💼 Cases de Sucesso & Experiência em Destaque
+
+<details>
+  <summary><b>🚀 Projeto PDV Scan: Robotização e Automação de Trade Marketing</b></summary>
+
+  * **O Desafio:** Processos de auditoria em Ponto de Venda totalmente manuais. O fluxo dependia de um analista/estagiário inspecionar foto por foto tirada em campo para registrar rupturas e preencher planilhas.
+  * **A Solução:** Liderança na implementação de uma arquitetura automatizada ponta a ponta:
+    * **Desenvolvimento de API/Backend:** Criação da aplicação centralizadora para recebimento e gestão das imagens de campo.
+    * **Robotização e Visão:** Integração de um robô inteligente que consome a API, processa as imagens em massa e extrai métricas críticas de execução.
+    * **Métricas Extraídas:** Rupturas, lojas executadas, posicionamento, blocagem, altura, *share* de gôndola e leitura de preços.
+    * **Engenharia de Dados:** Migração de dados de planilhas manuais para armazenamento centralizado em banco de dados relacional, permitindo consultas estruturadas sob demanda.
+  * **O Impacto:** Eliminação total do trabalho repetitivo manual (foto a foto), escalabilidade no processamento de auditorias e agilidade na extração de indicadores estratégicos para o negócio.
+</details>
+
+<details>
+  <summary><b>📊 Ecossistema de Business Intelligence & Dashboards Executivos</b></summary>
+
+  * **O Desafio:** Necessidade de visibilidade rápida e escalável sobre a positivação de lançamentos em redes de grande relevância para o faturamento.
+  * **A Solução:** Desenvolvimento de dashboards em Power BI (utilizando DAX e Power Query) estruturados em modelagem dimensional para monitoramento de indicadores de negócio.
+  * **O Impacto:** Criação de ferramentas internas e páginas de acompanhamento que sustentam decisões estratégicas de diretoria e equipes comerciais.
+</details>
+
+<details>
+  <summary><b>💡 Aplicação Prática de Inteligência Artificial Generativa</b></summary>
+
+  * **O Desafio:** Otimizar o tempo de desenvolvimento de rotinas complexas e acelerar a entrega de soluções analíticas.
+  * **A Solução:** Uso estratégico de IA Generativa (ChatGPT, Claude, Gemini) integrada ao fluxo de trabalho para otimização de códigos, construção de consultas SQL e automação de processos.
+  * **O Impacto:** Ganho expressivo de produtividade e agilidade na resolução de problemas técnicos de engenharia de dados.
+</details>
+
+> 🎯 *Quer ver mais detalhes técnicos ou códigos de projetos? Sinta-se à vontade para explorar os repositórios fixados abaixo ou entrar em contato comigo!*
+
+---
+
 ### ⚡ Competências & Foco de Atuação
 
 | Categoria | Tecnologias & Soluções |
