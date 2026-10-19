@@ -95,24 +95,22 @@ Possuo experiência na condução de projetos de robotização, automação de p
   ### 🔴 O Cenário Anterior (O "Antes")
   * Tabela estática sem KPIs executivos, filtros dispersos e alta dificuldade de leitura rápida.
   
-  ![Antes](<img width="1347" height="725" alt="image" src="https://github.com/user-attachments/assets/b73cd661-4ad5-40f0-a061-b98fa1e0aeeb" />
-)
+  ![Antes](bi-antes.png)
 
   ---
 
   ### 🟢 A Solução Desenvolvida (O "Depois")
 
   **Tela 1: Home Trade & Resumo Geral**
-  ![Depois Home](<img width="1370" height="708" alt="image" src="https://github.com/user-attachments/assets/144affe4-6519-4ff4-ac43-088cf8d1824b" />
-)
+  ![Depois Home](bi-depois-1.png)
 
   **Tela 2: Performance com Insights Estratégicos & Oportunidades**
-  ![Depois Performance](<img width="1370" height="717" alt="image" src="https://github.com/user-attachments/assets/a97187d8-4f91-4140-893e-b9a5ebdf2aa0" />
-)
+  ![Depois Performance](bi-depois-2.png)
 
   **Tela 3: Matriz de Positivação (Canal Alimentar)**
-  ![Depois Positivação](<img width="1370" height="690" alt="image" src="https://github.com/user-attachments/assets/4b809964-20f9-4973-8d58-34da322536d5" />
-)
+  ![Depois Positivação](bi-depois-3.png)
+
+</details>
 
 </details>
 
