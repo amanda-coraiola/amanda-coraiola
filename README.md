@@ -56,32 +56,46 @@ Possuo experiência na condução de projetos de robotização, automação de p
 <details>
   <summary><b>🚀 Projeto PDV Scan: Robotização e Automação de Trade Marketing</b></summary>
 
-  * **O Desafio:** Processos de auditoria em Ponto de Venda totalmente manuais. O fluxo dependia de um analista/estagiário inspecionar foto por foto tirada em campo para registrar rupturas e preencher planilhas.
-  * **A Solução:** Liderança na implementação de uma arquitetura automatizada ponta a ponta:
-    * **Desenvolvimento de API/Backend:** Criação da aplicação centralizadora para recebimento e gestão das imagens de campo.
-    * **Robotização e Visão:** Integração de um robô inteligente que consome a API, processa as imagens em massa e extrai métricas críticas de execução.
-    * **Métricas Extraídas:** Rupturas, lojas executadas, posicionamento, blocagem, altura, *share* de gôndola e leitura de preços.
-    * **Engenharia de Dados:** Migração de dados de planilhas manuais para armazenamento centralizado em banco de dados relacional, permitindo consultas estruturadas sob demanda.
-  * **O Impacto:** Eliminação total do trabalho repetitivo manual (foto a foto), escalabilidade no processamento de auditorias e agilidade na extração de indicadores estratégicos para o negócio.
+  <br/>
+
+  > **O Desafio & A Solução:** Redesenho completo de um fluxo de auditoria de Ponto de Venda. Transição de um processo puramente manual e engessado para um ecossistema automatizado ponta a ponta via API, Visão Computacional e engenharia de dados.
+
+  ---
+
+  ### 🔴 O Cenário Anterior (Processo Manual)
+  * O fluxo dependia de planilhas operacionais extensas e preenchimento manual exaustivo (foto por foto) por parte da equipe para validação de rupturas e execução.
+  
+  <p align="center">
+    <img src="pdv-antes-planilha-1.png" alt="Planilha Manual Parte 1" width="800px"/>
+  </p>
+  <p align="center">
+    <img src="pdv-antes-planilha-2.png" alt="Planilha Manual Parte 2" width="800px"/>
+  </p>
+
+  ---
+
+  ### 🟢 A Solução Automatizada (O "Depois")
+  * **Arquitetura & API:** Criação de rotinas inteligentes para recebimento, tratamento e processamento em massa das imagens de campo.
+  * **Métricas Extraídas Automaticamente:** Rupturas, *share* de gôndola, leitura de preços, posicionamento e blocagem.
+
+  **1. Central de Relatórios e Status de Processamento da API:**
+  <p align="center">
+    <img src="pdv-depois-sistema-relatorios.png" alt="Sistema Relatórios PDV Scan" width="800px"/>
+  </p>
+
+  **2. Visão Executiva e Indicadores de Atendimentos:**
+  <p align="center">
+    <img src="pdv-depois-kpis-atendimentos.png" alt="KPIs e Atendimentos Mensais" width="800px"/>
+  </p>
+
+  **3. Módulo de Galeria e Auditoria de Fotos de Gôndola:**
+  <p align="center">
+    <img src="pdv-depois-fotos-gondola.png" alt="Fotos de Gôndola e Auditoria" width="800px"/>
+  </p>
+
+  * **O Impacto:** Eliminação total do retrabalho operacional manual, alta escalabilidade no volume de auditorias processadas e entrega ágil de *insights* estratégicos para a tomada de decisão da diretoria comercial.
+
 </details>
-
-<details>
-  <summary><b>📊 Ecossistema de Business Intelligence & Dashboards Executivos</b></summary>
-
-  * **O Desafio:** Necessidade de visibilidade rápida e escalável sobre a positivação de lançamentos em redes de grande relevância para o faturamento.
-  * **A Solução:** Desenvolvimento de dashboards em Power BI (utilizando DAX e Power Query) estruturados em modelagem dimensional para monitoramento de indicadores de negócio.
-  * **O Impacto:** Criação de ferramentas internas e páginas de acompanhamento que sustentam decisões estratégicas de diretoria e equipes comerciais.
-</details>
-
-<details>
-  <summary><b>💡 Aplicação Prática de Inteligência Artificial Generativa</b></summary>
-
-  * **O Desafio:** Otimizar o tempo de desenvolvimento de rotinas complexas e acelerar a entrega de soluções analíticas.
-  * **A Solução:** Uso estratégico de IA Generativa (ChatGPT, Claude, Gemini) integrada ao fluxo de trabalho para otimização de códigos, construção de consultas SQL e automação de processos.
-  * **O Impacto:** Ganho expressivo de produtividade e agilidade na resolução de problemas técnicos de engenharia de dados.
-</details>
-
-> 🎯 *Quer ver mais detalhes técnicos ou códigos de projetos? Sinta-se à vontade para explorar os repositórios fixados abaixo ou entrar em contato comigo!*
 
 ---
 
